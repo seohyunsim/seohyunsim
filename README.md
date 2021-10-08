@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=F7EFE9&height=300&section=header&text=seohyun%20sim&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=slice&color=F7EFE9&height=200&section=header&text=seohyun%20sim&fontSize=70)
 
 ## 📎 Tech
 

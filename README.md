@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=F7EFE9&height=200&section=header&text=seohyun%20sim&fontSize=70)
 
-##📎 Tech 
+## Tech 
 
 ![HTML](https://img.shields.io/badge/HTML-f2f2f2?style=flat-square&logo=HTML5&logoColor=#E34F26) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=#1572B6) ![SCSS](https://img.shields.io/badge/Scss-CC6699?style=flat-square&logo=Sass&logoColor=white)
 

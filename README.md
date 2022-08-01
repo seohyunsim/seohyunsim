@@ -1,7 +1,13 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=F7EFE9&height=200&section=header&text=seohyun%20sim&fontSize=70)
+<a href='https://velog.io/@seohyunsim'><img src="https://img.shields.io/badge/blog-white?style=social&logo=Velog&logoColor=#20C997"/></a>
+<img src="https://img.shields.io/badge/ssh4563@naver.com-white?style=social&logo=Gmail&logoColor=#20C997
 
-## Tech Stacks
+Hello world, I'm web front-end developer in South Korea 🌍👩‍💻
+growing into an influential developer who will change the world, so please look forward to it ! ✨
 
-![HTML](https://img.shields.io/badge/HTML-f2f2f2?style=flat-square&logo=HTML5&logoColor=#E34F26) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=#1572B6) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black) ![SCSS](https://img.shields.io/badge/Scss-CC6699?style=flat-square&logo=Sass&logoColor=white)
 
-![REACT](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white) ![REACT](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white) ![NextJS](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=Next.js&logoColor=#000000)
+### skills
+<img src="https://img.shields.io/badge/HTML-white?style=flat&logo=HTML5&logoColor=#E34F26"/><img src="https://img.shields.io/badge/CSS-white?style=flat&logo=CSS3&logoColor=blue"/>
+<img src="https://img.shields.io/badge/JavaScript-white?style=flat&logo=JavaScript&logoColor=#F7DF1E"/><img src="https://img.shields.io/badge/TypeScript-white?style=flat&logo=TypeScript&logoColor=#3178C6"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/><img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js
+&logoColor=white"/><img src="https://img.shields.io/badge/React-Redux-764ABC?style=flat&logo=Redux&logoColor=white"/>
+<img src="https://img.shields.io/badge/styled-components-white?style=flat&logo=styled-components&logoColor=#DB7093"/><img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=white"/>

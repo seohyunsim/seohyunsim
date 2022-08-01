@@ -2,7 +2,7 @@
 <img src="https://img.shields.io/badge/ssh4563@naver.com-white?style=social&logo=Gmail&logoColor=#20C997"/>
 
 
-Hello world, I'm web front-end developer in South Korea 🌍👩‍💻
+Hello world, I'm web **front-end developer** in South Korea 🌍👩‍💻
 
 growing into an influential developer who will change the world, so please look forward to it ! ✨
 

@@ -1,5 +1,5 @@
 <a href='https://velog.io/@seohyunsim'><img src="https://img.shields.io/badge/blog-white?style=social&logo=Velog&logoColor=#20C997"/></a>
-<img src="https://img.shields.io/badge/ssh4563@naver.com-white?style=social&logo=Gmail&logoColor=#20C997"/>
+<a href='mailto:ssh4563@naver.com'><img src="https://img.shields.io/badge/mail-white?style=social&logo=Gmail&logoColor=#20C997"/></a>
 
 
 Hello world, I'm web **front-end developer** in South Korea 🌍👩‍💻
